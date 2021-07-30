@@ -8,7 +8,7 @@ Everything needed to host the files on a web server/web host such as itch.io is 
 
 To run the BiwaScheme Express server, run "npm install -g express", then run "npm install -g biwascheme"
 
-You can then go into the Scheme folder and run "biwas express-server.scm" and the server will be started on port 1000.
+You can then go into the Scheme folder and run "biwas express-server.scm" and the server will be started on port 5000.
 You can then go to http://localhost:5000/index.html in your web browser to view the project.
 
 If you are new to BiwaScheme, feel free to check out the docs on the website at https://www.biwascheme.org
