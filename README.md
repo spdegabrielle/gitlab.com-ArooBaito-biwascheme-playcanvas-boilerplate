@@ -1,3 +1,5 @@
+See the live example here: https://aroobaito.itch.io/biwascheme-playcanvas-example
+
 A simple boilerplate example demonstrating BiwaScheme running on top of the 3D webGL engine PlayCanvas.
 
 Special thanks to Yutaka Hara for this amazing implementation of Scheme, as well as the PlayCanvas developers for their fantastic frameworks, PCUI and PlayCanvas!
